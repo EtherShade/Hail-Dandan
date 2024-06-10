@@ -435,30 +435,30 @@
 	        }
 	    },
 	    {
-	        "name": "NAMEHERE",
+	        "name": "NAMEHERE1",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/NAMEHERE.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/NAMEHERE1.png"
 	        }
 	    },
 	    {
-	        "name": "NAMEHERE",
+	        "name": "NAMEHERE3",
 	        "rarity": "uncommon",
 	        "mana_cost": "{U}",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/NAMEHERE.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/NAMEHERE3.png"
 	        }
 	    },
 	    {
-	        "name": "NAMEHERE",
+	        "name": "NAMEHERE2",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/NAMEHERE.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/NAMEHERE2.png"
 	        }
 	    },
 	    {
@@ -480,12 +480,12 @@
 	        }
 	    },
 	    {
-	        "name": "NAMEHERE",
+	        "name": "NAMEHERE4",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/NAMEHERE.png"
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/NAMEHERE4.png"
 	        }
 	    },
 	    {
