@@ -597,34 +597,6 @@
 	        }
 	    }
 	]
-	[RareSlot(0)]
-		0 RC01 — Mask of Intolerance
-		0 Pollutiform
-		0 Puriform
-		0 Oblation
-		0 Dandanegeddon
-		0 Perturbing Pocket Watch
-		0 Cognitive Experiment
-		0 Fblthp, the Intercanonically Lost
-	[UncommonSlot(0)]
-		0 UC06 — Mystic Compass
-		0 Heirloom Mirror
-		0 Blood Eclipse
-		0 Nightcreep
-		0 Pollution
-		0 Hallowed Ground
-		0 UL02 — The Danic Steam Vents
-		0 UC02 — Mox Ping
-		0 UL06 — Tidefall Island
-		0 UC01 — Mox Wip
-		0 UC03 — Mox Doom
-		0 UC04 — Mox Pig
-		0 UC05 — Mox Big
-		0 Lapse of Certainty
-		0 NAMEHERE1
-		0 NAMEHERE3
-		0 NAMEHERE2
-		0 NAMEHERE4
 	[CommonSlot(15)]
 		50 CC01 — Navigator's Compass
 		50 CC02 — Elsewhere Flask
