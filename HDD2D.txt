@@ -665,4 +665,3 @@
 		50 CG04 — Nonexistant Garden
 		50 CG05 — Currency Toss
 		50 CC03 — Duality Dagger
-	[BasicSlot(1 
