@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>HDD</name>
+      <longname>Hail Dandân</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>CC01 — Navigator&apos;s Compass</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Navigator’s Compass enters the battlefield, you gain 3 life.
+{T}: Until end of turn, target land you control becomes the basic land type of your choice in addition to its other types.</text>
+    </card>
+    <card>
+      <name>CC02 — Elsewhere Flask</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Elsewhere Flask enters the battlefield, draw a card.
+Sacrifice Elsewhere Flask: Choose a basic land type. Each land you control becomes that type until end of turn.</text>
+    </card>
+    <card>
+      <name>CL01 — Unstable Frontier</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}: Target land you control becomes the basic land type of your choice until end of turn.</text>
+    </card>
+    <card>
+      <name>CU03 — Cognitive Lapse</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target spell. Any player may cast it for as long as it remains exiled.</text>
+    </card>
+    <card>
+      <name>CW00 — Wipwarp</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>WW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Frog </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aggressive (This creature can’t block.)
+Wipwarp gets +1/+0 for each other creature you control.</text>
+    </card>
+    <card>
+      <name>CU00 — Pingpong</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Pingpong can only attack if you’ve cast two or more noncreature spells this turn.</text>
+    </card>
+    <card>
+      <name>CR03 — Blood of the World</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target land until end of turn. Untap it.</text>
+    </card>
+    <card>
+      <name>CB00 — Dimdoom</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender, aggressive (This creature can’t block.)
+Dimdoom can attack as if it didn’t have defender as long as you have a creature card in your graveyard.</text>
+    </card>
+    <card>
+      <name>CR00 — Pigpog</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>RR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Boar </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aggressive (This creature can’t block.)
+Whenever Pigpog enters or attacks, it deals 1 damage to another target creature you control.</text>
+    </card>
+    <card>
+      <name>CG00 — Bigbeeg</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>GG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bigbeeg can’t be blocked by creatures with power 2 or less.
+Bigbeeg can’t attack or block if you’ve cast a noncreature spell this turn.</text>
+    </card>
+    <card>
+      <name>CR04 — Counterflame</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counterflame deals 2 damage to any target. If that target is a creature that entered this turn, Counterflame deals 1 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>CU04 — Cognitive Deduction</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Cleave 1U (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
+Scry 1.
+Draw a card[ for each card named Cognitive Deduction in each graveyard].</text>
+    </card>
+    <card>
+      <name>CW04 — Burning Light</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Burning Light deals 1 damage to target attacking or blocking creature.</text>
+    </card>
+    <card>
+      <name>CU06 — Sword of Ping and Pong</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature attacks, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+Equip {2}</text>
+    </card>
+    <card>
+      <name>CW06 — Sword of Wip and Warp</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has ward {2} and healing 1. (Damage dealt by that creature also causes you to gain 1 life.)
+Equip {2}</text>
+    </card>
+    <card>
+      <name>CB06 — Sword of Dim and Doom</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature can block as though it doesn’t have aggressive and has healing 2. (This creature can’t block. Damage dealt by that creature also causes you to gain 2 life.)
+Equip {2}</text>
+    </card>
+    <card>
+      <name>CR06 — Sword of Pig and Pog</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature can block as though it doesn’t have aggressive. (This creature can’t block.)
+Whenever equipped creature attacks or blocks, it deals 2 damage to target player.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>CG06 — Sword of Big and Beeg</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+0 and has trample.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>CW02 — Thought of Unity</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gains hexproof until end of turn.
+2W, Exile Thought of Unity from your graveyard: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>CU02 — Thought of Knowledge</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature to its owner’s hand.
+2U, Exile Thought of Knowledge from your graveyard: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>CW05 — Purity Research</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Investigate. You gain 3 life. (Create a colorless Clue artifact token with “{2}, Sacrifice this artifact: Draw a card.”)
+If you control an Island, return target creature to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>CU05 — Knowledge Blight</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+If you control a Swamp, target opponent loses 2 life.</text>
+    </card>
+    <card>
+      <name>CB05 — Doom Fire</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent loses 2 life.
+If you control a Mountain, creatures you control gain haste until end of turn.</text>
+    </card>
+    <card>
+      <name>CB04 — Weakness of the Body</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -X/-0 until end of turn, where X is 1 plus the number of instant and sorcery cards in your graveyard. Then if that creature’s power is 0 or less, destroy that creature.</text>
+    </card>
+    <card>
+      <name>CB03 — Blood Pact</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player draws two cards and loses 2 life.</text>
+    </card>
+    <card>
+      <name>CB02 — Thought of Power</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to your hand.
+2B, Exile Thought of Power from your graveyard: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>CR02 — Thought of Instinct</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Thought of Instinct deals 2 damage to target player.
+2R, Exile Thought of Instinct from your graveyard: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>CG02 — Thought of Nature</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gains indestructible until end of turn.
+2G, Exile Thought of Nature from your graveyard: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>CR05 — Vial of Flames</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.
+Whenever you a source you control deals noncombat damage to a permanent or player, untap Vial of Flames.</text>
+    </card>
+    <card>
+      <name>CW01 — Pedantic Peasant</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>6W, Sacrifice Pedantic Peasant:  Creatures you control get +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>CU01 — Mediocre Mystic</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Mystic </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>6U, Sacrifice Mediocre Mystic: Draw three cards.</text>
+    </card>
+    <card>
+      <name>CB01 — Callous Cleric</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>6B, Sacrifice Callous Cleric: Target opponent loses 7 life.</text>
+    </card>
+    <card>
+      <name>CR01 — Reckless Rogue</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>6R, Sacrifice Reckless Rogue: Creatures you control get +3/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>CW03 — Warped Blessing</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature enters under your control, you gain 3 life.</text>
+    </card>
+    <card>
+      <name>CG01 — Murderous Mercenary</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Mercenary </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>6G, Sacrifice Murderous Mercenary: Return two target cards from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>CG03 — Gambling Duel</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose a creature you control and a creature an opponent controls. Flip a coin. If you win the flip, the creature you control gets +3/+3 until end of turn. If you lose the flip, the creature your opponent controls gets +3/+3 until end of turn. Then they fight. (Each deals damage equal to its power to the other.)</text>
+    </card>
+    <card>
+      <name>CG04 — Nonexistant Garden</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+Aggressive (This creature can’t block.)
+{T}: Target creature you control gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>CG05 — Currency Toss</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you would lose a coin flip for the first time each turn, you may flip again and take the new result.</text>
+    </card>
+    <card>
+      <name>CC03 — Duality Dagger</name>
+      <set rarity="common">HDD</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has skulk. (That creature can’t be blocked by creatures with greater power.)
+Equip {2}</text>
+    </card>

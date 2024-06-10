@@ -1,0 +1,639 @@
+[CustomCards]
+	[    {
+	        "name": "UC06 — Mystic Compass",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/UC06 — Mystic Compass.png"
+	        }
+	    },
+	    {
+	        "name": "CC01 — Navigator's Compass",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CC01 — Navigator's Compass.png"
+	        }
+	    },
+	    {
+	        "name": "RC01 — Mask of Intolerance",
+	        "rarity": "rare",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/RC01 — Mask of Intolerance.png"
+	        }
+	    },
+	    {
+	        "name": "CC02 — Elsewhere Flask",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CC02 — Elsewhere Flask.png"
+	        }
+	    },
+	    {
+	        "name": "CL01 — Unstable Frontier",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CL01 — Unstable Frontier.png"
+	        }
+	    },
+	    {
+	        "name": "Heirloom Mirror",
+	        "mana_cost": "{1}{B}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "Heirloom Mirror.png"
+	        },
+	        "printed names": {
+	            "en": "Heirloom Mirror"
+	        },
+	        "back": {
+	            "name": "Inherited Fiend",
+	            "printed_names": {
+	                "en": "Inherited Fiend"
+	            },
+	            "image_uris": {
+	                "en": "Inherited Fiend.png"
+	            },
+	            "type": "Creature — Demon "
+	        }
+	    },
+	    {
+	        "name": "Pollutiform",
+	        "rarity": "rare",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/Pollutiform.png"
+	        }
+	    },
+	    {
+	        "name": "Puriform",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/Puriform.png"
+	        }
+	    },
+	    {
+	        "name": "Blood Eclipse",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/Blood Eclipse.png"
+	        }
+	    },
+	    {
+	        "name": "Nightcreep",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/Nightcreep.png"
+	        }
+	    },
+	    {
+	        "name": "Pollution",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/Pollution.png"
+	        }
+	    },
+	    {
+	        "name": "Hallowed Ground",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/Hallowed Ground.png"
+	        }
+	    },
+	    {
+	        "name": "Oblation",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/Oblation.png"
+	        }
+	    },
+	    {
+	        "name": "CU03 — Cognitive Lapse",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CU03 — Cognitive Lapse.png"
+	        }
+	    },
+	    {
+	        "name": "UL02 — The Danic Steam Vents",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Legendary Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/UL02 — The Danic Steam Vents.png"
+	        }
+	    },
+	    {
+	        "name": "UC02 — Mox Ping",
+	        "rarity": "uncommon",
+	        "mana_cost": "{0}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/UC02 — Mox Ping.png"
+	        }
+	    },
+	    {
+	        "name": "UL06 — Tidefall Island",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Legendary Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/UL06 — Tidefall Island.png"
+	        }
+	    },
+	    {
+	        "name": "CW00 — Wipwarp",
+	        "rarity": "common",
+	        "mana_cost": "{W}{W}",
+	        "type": "Creature — Frog ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CW00 — Wipwarp.png"
+	        }
+	    },
+	    {
+	        "name": "CU00 — Pingpong",
+	        "rarity": "common",
+	        "mana_cost": "{U}{U}",
+	        "type": "Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CU00 — Pingpong.png"
+	        }
+	    },
+	    {
+	        "name": "Dandanegeddon",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/Dandanegeddon.png"
+	        }
+	    },
+	    {
+	        "name": "CR03 — Blood of the World",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CR03 — Blood of the World.png"
+	        }
+	    },
+	    {
+	        "name": "Perturbing Pocket Watch",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/Perturbing Pocket Watch.png"
+	        }
+	    },
+	    {
+	        "name": "CB00 — Dimdoom",
+	        "rarity": "common",
+	        "mana_cost": "{B}{B}",
+	        "type": "Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CB00 — Dimdoom.png"
+	        }
+	    },
+	    {
+	        "name": "CR00 — Pigpog",
+	        "rarity": "common",
+	        "mana_cost": "{R}{R}",
+	        "type": "Creature — Boar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CR00 — Pigpog.png"
+	        }
+	    },
+	    {
+	        "name": "CG00 — Bigbeeg",
+	        "rarity": "common",
+	        "mana_cost": "{G}{G}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CG00 — Bigbeeg.png"
+	        }
+	    },
+	    {
+	        "name": "UC01 — Mox Wip",
+	        "rarity": "uncommon",
+	        "mana_cost": "{0}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/UC01 — Mox Wip.png"
+	        }
+	    },
+	    {
+	        "name": "UC03 — Mox Doom",
+	        "rarity": "uncommon",
+	        "mana_cost": "{0}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/UC03 — Mox Doom.png"
+	        }
+	    },
+	    {
+	        "name": "UC04 — Mox Pig",
+	        "rarity": "uncommon",
+	        "mana_cost": "{0}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/UC04 — Mox Pig.png"
+	        }
+	    },
+	    {
+	        "name": "UC05 — Mox Big",
+	        "rarity": "uncommon",
+	        "mana_cost": "{0}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/UC05 — Mox Big.png"
+	        }
+	    },
+	    {
+	        "name": "CR04 — Counterflame",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CR04 — Counterflame.png"
+	        }
+	    },
+	    {
+	        "name": "Cognitive Experiment",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/Cognitive Experiment.png"
+	        }
+	    },
+	    {
+	        "name": "CU04 — Cognitive Deduction",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CU04 — Cognitive Deduction.png"
+	        }
+	    },
+	    {
+	        "name": "CW04 — Burning Light",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CW04 — Burning Light.png"
+	        }
+	    },
+	    {
+	        "name": "CU06 — Sword of Ping and Pong",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CU06 — Sword of Ping and Pong.png"
+	        }
+	    },
+	    {
+	        "name": "CW06 — Sword of Wip and Warp",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CW06 — Sword of Wip and Warp.png"
+	        }
+	    },
+	    {
+	        "name": "CB06 — Sword of Dim and Doom",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CB06 — Sword of Dim and Doom.png"
+	        }
+	    },
+	    {
+	        "name": "CR06 — Sword of Pig and Pog",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CR06 — Sword of Pig and Pog.png"
+	        }
+	    },
+	    {
+	        "name": "CG06 — Sword of Big and Beeg",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CG06 — Sword of Big and Beeg.png"
+	        }
+	    },
+	    {
+	        "name": "CW02 — Thought of Unity",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CW02 — Thought of Unity.png"
+	        }
+	    },
+	    {
+	        "name": "CU02 — Thought of Knowledge",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CU02 — Thought of Knowledge.png"
+	        }
+	    },
+	    {
+	        "name": "CW05 — Purity Research",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CW05 — Purity Research.png"
+	        }
+	    },
+	    {
+	        "name": "CU05 — Knowledge Blight",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CU05 — Knowledge Blight.png"
+	        }
+	    },
+	    {
+	        "name": "CB05 — Doom Fire",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CB05 — Doom Fire.png"
+	        }
+	    },
+	    {
+	        "name": "CB04 — Weakness of the Body",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CB04 — Weakness of the Body.png"
+	        }
+	    },
+	    {
+	        "name": "CB03 — Blood Pact",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CB03 — Blood Pact.png"
+	        }
+	    },
+	    {
+	        "name": "CB02 — Thought of Power",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CB02 — Thought of Power.png"
+	        }
+	    },
+	    {
+	        "name": "Lapse of Certainty",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/Lapse of Certainty.png"
+	        }
+	    },
+	    {
+	        "name": "NAMEHERE",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/NAMEHERE.png"
+	        }
+	    },
+	    {
+	        "name": "NAMEHERE",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/NAMEHERE.png"
+	        }
+	    },
+	    {
+	        "name": "NAMEHERE",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/NAMEHERE.png"
+	        }
+	    },
+	    {
+	        "name": "CR02 — Thought of Instinct",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CR02 — Thought of Instinct.png"
+	        }
+	    },
+	    {
+	        "name": "CG02 — Thought of Nature",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CG02 — Thought of Nature.png"
+	        }
+	    },
+	    {
+	        "name": "NAMEHERE",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/NAMEHERE.png"
+	        }
+	    },
+	    {
+	        "name": "CR05 — Vial of Flames",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CR05 — Vial of Flames.png"
+	        }
+	    },
+	    {
+	        "name": "CW01 — Pedantic Peasant",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Peasant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CW01 — Pedantic Peasant.png"
+	        }
+	    },
+	    {
+	        "name": "CU01 — Mediocre Mystic",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Human Mystic ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CU01 — Mediocre Mystic.png"
+	        }
+	    },
+	    {
+	        "name": "Fblthp, the Intercanonically Lost",
+	        "rarity": "rare",
+	        "mana_cost": "{U}",
+	        "type": "Legendary Creature — Homunculus ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/Fblthp, the Intercanonically Lost.png"
+	        }
+	    },
+	    {
+	        "name": "CB01 — Callous Cleric",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CB01 — Callous Cleric.png"
+	        }
+	    },
+	    {
+	        "name": "CR01 — Reckless Rogue",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CR01 — Reckless Rogue.png"
+	        }
+	    },
+	    {
+	        "name": "CW03 — Warped Blessing",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CW03 — Warped Blessing.png"
+	        }
+	    },
+	    {
+	        "name": "CG01 — Murderous Mercenary",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Human Mercenary ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CG01 — Murderous Mercenary.png"
+	        }
+	    },
+	    {
+	        "name": "CG03 — Gambling Duel",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CG03 — Gambling Duel.png"
+	        }
+	    },
+	    {
+	        "name": "CG04 — Nonexistant Garden",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Wall ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CG04 — Nonexistant Garden.png"
+	        }
+	    },
+	    {
+	        "name": "CG05 — Currency Toss",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CG05 — Currency Toss.png"
+	        }
+	    },
+	    {
+	        "name": "CC03 — Duality Dagger",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/EtherShade/Hail-Dandan/main/CCS1C-files/CC03 — Duality Dagger.png"
+	        }
+	    }
+	]
+	[CommonSlot(15)]
+		50 CC01 — Navigator's Compass
+		50 CC02 — Elsewhere Flask
+		50 CL01 — Unstable Frontier
+		50 CU03 — Cognitive Lapse
+		50 CW00 — Wipwarp
+		50 CU00 — Pingpong
+		50 CR03 — Blood of the World
+		50 CB00 — Dimdoom
+		50 CR00 — Pigpog
+		50 CG00 — Bigbeeg
+		50 CR04 — Counterflame
+		50 CU04 — Cognitive Deduction
+		50 CW04 — Burning Light
+		50 CU06 — Sword of Ping and Pong
+		50 CW06 — Sword of Wip and Warp
+		50 CB06 — Sword of Dim and Doom
+		50 CR06 — Sword of Pig and Pog
+		50 CG06 — Sword of Big and Beeg
+		50 CW02 — Thought of Unity
+		50 CU02 — Thought of Knowledge
+		50 CW05 — Purity Research
+		50 CU05 — Knowledge Blight
+		50 CB05 — Doom Fire
+		50 CB04 — Weakness of the Body
+		50 CB03 — Blood Pact
+		50 CB02 — Thought of Power
+		50 CR02 — Thought of Instinct
+		50 CG02 — Thought of Nature
+		50 CR05 — Vial of Flames
+		50 CW01 — Pedantic Peasant
+		50 CU01 — Mediocre Mystic
+		50 CB01 — Callous Cleric
+		50 CR01 — Reckless Rogue
+		50 CW03 — Warped Blessing
+		50 CG01 — Murderous Mercenary
+		50 CG03 — Gambling Duel
+		50 CG04 — Nonexistant Garden
+		50 CG05 — Currency Toss
+		50 CC03 — Duality Dagger
